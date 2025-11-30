@@ -37,10 +37,12 @@ Forecasts for 14-day days and longer forecasts (30 days) showed more deviation, 
 
 
 Challenges
+
 The dataset required manual transcription from PDF to Excel, which was time-consuming and prone to human error.
 The forecast models could be improved with more extensive or higher-resolution data
 The dataset had fewer columns
 
 Future improvements
+
 Use advanced forecasting models (e.g., Facebook Prophet, LSTM deep learning networks). Extend the forecasting for other columns
 Build an interactive dashboard
